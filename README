@@ -2,7 +2,7 @@
 
 Inverter on-chip debugging currently utilizes
 - ti-openocd (TI fork of OpenOCD) cloned and compiled from source
-- 
+- arm-none-eabi-gdb
 
 To build ti-opencd (should not be necessary, already built)
 $ cd ti-openocd
