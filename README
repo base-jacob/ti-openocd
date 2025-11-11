@@ -89,7 +89,7 @@ processMessages (transport_msg_buf=..., transport_msg_cnt=0, link=...) at /home/
 ```
 
 
-
+You can reset the processor without physically touching it by connecting with gdb and doing `monitor reset run`
 
 
 
